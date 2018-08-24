@@ -1,0 +1,64 @@
+h1{
+	text-align: center;
+}
+
+.d1{
+	border: 1px solid;
+	font-weight: bold;
+}
+.d2{
+	text-align: center;
+	border: 1px solid;
+	font-weight: bold;
+}
+.d3{
+	border: 1px solid;
+}
+
+.d3-1{
+	float: left;
+	padding-left: 50px;
+}
+
+.d3-2{
+	float: left;
+}
+.img{
+	width: 140px;
+	height: 150px;
+	padding-left: 600px;
+	padding-top: 10px;
+	padding-bottom: 5px;
+}
+.clear{
+	clear: both;
+}
+
+.d4{
+	border: 1px solid;
+	font-weight: bold;
+	text-align: center;
+}
+table, td{
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+table{
+	width: 100%;
+}
+
+.d5{
+	border: 1px solid;
+	font-weight: bold;
+	text-align: center;
+}
+
+.center{
+	text-align: center;
+}
+
+.d6{
+	border: 1px solid;
+	font-weight: bold;
+	text-align: center;
+}
