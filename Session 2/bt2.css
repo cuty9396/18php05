@@ -1,0 +1,42 @@
+header{
+	display: block;
+	background-color: #EF6511;
+	height: 90px;
+	margin-bottom: 10px;
+	clear: both;
+}
+
+#div{
+	clear: both;
+}
+#d1{
+	float: left;
+	background-color: #EF6511;
+	width: 30%;
+	height: 450px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+}
+
+#d2{
+	float: left;
+	background-color: #EF6511;
+	width: 50%;
+	height: 450px;
+	margin-right: 10px;
+}
+
+#d3{
+	float: left;
+	background-color: #EF6511;
+	width: 18.5%;
+	height: 450px;
+}
+
+footer{
+
+	display: block;
+	background-color: #EF6511;
+	height: 80px;
+	clear: both;
+}

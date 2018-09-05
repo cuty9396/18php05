@@ -1,0 +1,86 @@
+header {
+    display: block;
+    background-color: cyan;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+}
+
+footer{
+	display: block;
+    background-color: #0B5BB4;
+    height: 80px;
+    line-height: 80px;
+    text-align: center;
+    clear: both;
+}
+
+h2{
+	color: white;
+}
+
+#d1{
+	clear: both;
+}
+
+#main-content{
+	margin-left: 250px;
+	margin-right: 10px;
+	margin-top: 10px;
+	width: 600px;
+	height: 250px;
+	font-size: 20px;
+	font-weight: bold;
+	background-color: #6AED2A;
+	text-align: center;
+	color: white;
+ 	float: left;
+ 	line-height: 250px;
+}
+
+#side-bar{
+	float: left;
+	width: 200px;
+	height: 250px;
+	font-weight: bold;
+	color: white;
+	background-color: #E01DA7;
+	text-align: center;
+	margin-top: 10px;
+	font-size: 20px;
+	line-height: 250px;
+}
+
+#d2{
+	clear: both;
+}
+
+#twin1{
+	margin-left: 250px;
+	margin-top: 10px;
+	background-color: #E66D14;
+	font-size: 20px;	
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	float: left;
+	width: 400px;
+	height: 200px;
+	margin-bottom: 10px;
+	line-height: 200px;
+}
+
+#twin2{
+	margin-left: 10px;
+	margin-top: 10px;
+	background-color: #E66D14;
+	font-size: 20px;	
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	float: left;
+	width: 400px;
+	height: 200px;
+	margin-bottom: 10px;
+	line-height: 200px;
+}
