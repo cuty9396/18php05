@@ -1,0 +1,382 @@
+h3{
+	padding-left: 10px;
+}
+
+@media only screen and (max-width: 1440px) {
+	header{
+	background-color: #3D14EF;
+	margin-bottom: 10px;
+	height: 100px;
+	clear: both;
+	}
+	#brand{
+		float: left;
+		width: 19%;
+		background-color: #6AC2F0;
+		margin-right: 1%;
+		margin-left: 1%;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;
+	}
+	#global-nov{
+		float: left;
+		width: 48%;
+		background-color: #6AC2F0;
+		margin-right: 1%;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;		
+	}
+	#tool{
+		float: left;
+		width: 29%;
+		background-color: #6AC2F0; 
+		margin-right: 1%;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;
+	}
+
+	.div1{
+		clear: both;
+	}
+	#hero{
+		background-color: #3D14EF;
+		float: left;
+		width: 70%;
+		margin-right: 1%;
+		height: 150px;
+	}
+	#hero-feature{
+		margin-left: 1%;
+		float: left;
+		width: 60%;
+		margin-right: 2%;
+		height: 70px;
+		line-height: 70px;
+		text-align: center;
+		background-color: #6AC2F0; 
+	}
+	#hero-call{
+		float: left;
+		width: 35%;
+		margin-right: 1%;
+		height: 70px;
+		line-height: 70px;
+		text-align: center;
+		background-color: #6AC2F0; 
+	}
+	#ad{
+		float: left;
+		width: 29%;
+		height: 150px;
+		line-height: 150px;
+		text-align: center;
+		background-color: #030E9D; 
+	}
+
+	#body{
+		margin-top: 10px;
+		background-color: #3D14EF;
+		float: left;
+		width: 70%;
+		margin-right: 1%;
+		height: 280px;
+		margin-bottom: 10px;
+	}
+	#article-feature{
+		margin-left: 1%;
+		float: left;
+		width: 35%;
+		margin-right: 2%;
+		height: 205px;
+		line-height: 205px;
+		text-align: center;
+		background-color: #6AC2F0; 
+	}
+	#article-listing{
+		float: left;
+		width: 60%;
+		margin-right: 1%;
+		height: 205px;
+		line-height: 205px;
+		text-align: center;
+		background-color: #6AC2F0; 
+	}
+	#sidebar{
+		margin-top: 10px;
+		float: left;
+		width: 29%;
+		height: 280px;
+		background-color: #030E9D;
+		margin-bottom: 10px;	
+	}
+	#sidebar-feature{
+		float: left;
+		width: 90%;
+		margin-left: 5%;
+		height: 205px;
+		line-height: 205px;
+		text-align: center;
+		background-color: #6AC2F0; 
+	}
+
+	footer{
+		background-color: #3D14EF;
+		height: 70px;
+		clear: both;
+		line-height: 70px;
+	}
+}
+
+@media only screen and (max-width: 768px) {
+	header{
+	background-color: #3D14EF;
+	margin-bottom: 10px;
+	height: 100px;
+	clear: both;
+	}
+	#brand{
+		float: left;
+		width: 19%;
+		background-color: #6AC2F0;
+		margin-right: 1%;
+		margin-left: 1%;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;
+	}
+	#global-nov{
+		float: left;
+		width: 48%;
+		background-color: #6AC2F0;
+		margin-right: 1%;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;		
+	}
+	#tool{
+		float: left;
+		width: 29%;
+		background-color: #6AC2F0; 
+		margin-right: 1%;
+		height: 40px;
+		line-height: 40px;
+		text-align: center;
+	}
+
+	.div1{
+		clear: both;
+	}
+	#hero{
+		background-color: #3D14EF;
+		float: left;
+		width: 100%;
+		height: 145px;
+		clear: both;
+	}
+	#hero-feature{
+		margin-left: 1%;
+		width: 98%;
+		margin-right: 1%;
+		height: 35px;
+		line-height: 35px;
+		text-align: center;
+		background-color: #6AC2F0;
+		margin-bottom: 5px; 
+	}
+	#hero-call{
+		margin-left: 1%;
+		float: left;
+		width: 98%;
+		margin-right: 1%;
+		height: 35px;
+		line-height: 35px;
+		text-align: center;
+		background-color: #6AC2F0; 
+	}
+	#ad{
+		margin-top: 5px;
+		width: 100%;
+		height: 35px;
+		line-height: 35px;
+		text-align: center;
+		background-color: #030E9D; 
+	}
+
+	#body{
+		margin-top: 10px;
+		background-color: #3D14EF;
+		float: left;
+		width: 100%;
+		margin-right: 1%;
+		height: 280px;
+		clear: both;
+	}
+	#article-feature{
+		margin-left: 1%;
+		float: left;
+		width: 98%;
+		margin-right: 1%;
+		height: 50px;
+		line-height: 50px;
+		text-align: center;
+		background-color: #6AC2F0;
+		margin-bottom: 10px;
+	}
+	#article-listing{
+		float: left;
+		width: 98%;
+		margin-right: 1%;
+		margin-left: 1%;
+		height: 150px;
+		line-height: 150px;
+		text-align: center;
+		background-color: #6AC2F0; 
+	}
+	#sidebar{
+		width: 100%;
+		height: 100px;
+		background-color: #030E9D;
+	}
+	#sidebar-feature{
+		float: left;
+		width: 98%;
+		margin-left: 1%;
+		margin-right: 1%;
+		height: 30px;
+		line-height: 30px;
+		text-align: center;
+		background-color: #6AC2F0;
+	}
+
+	footer{
+		background-color: #3D14EF;
+		height: 70px;
+		clear: both;
+		line-height: 70px;
+	}
+}
+
+@media only screen and (max-width: 480px) {
+	header{
+	background-color: #3D14EF;
+	margin-bottom: 10px;
+	height: 110px;
+	clear: both;
+	}
+	#brand{
+		width: 98%;
+		background-color: #6AC2F0;
+		margin-right: 1%;
+		margin-left: 1%;
+		margin-bottom: 5px;
+		height: 30px;
+		line-height: 30px;
+		text-align: center;
+		clear: both;
+	}
+	#global-nov{
+		float: left;
+		width: 58%;
+		background-color: #6AC2F0;
+		margin-left: 1%;
+		margin-right: 1%;
+		height: 30px;
+		line-height: 30px;
+		text-align: center;		
+	}
+	#tool{
+		float: left;
+		width: 39%;
+		background-color: #6AC2F0; 
+		margin-right: 1%;
+		height: 30px;
+		line-height: 30px;
+		text-align: center;
+	}
+
+	.div1{
+		clear: both;
+	}
+	#hero{
+		background-color: #3D14EF;
+		float: left;
+		width: 100%;
+		height: 105px;
+		clear: both;
+	}
+	#hero-feature{
+		display: none;
+	}
+	#hero-call{
+		margin-left: 1%;
+		float: left;
+		width: 98%;
+		margin-right: 1%;
+		height: 35px;
+		line-height: 35px;
+		text-align: center;
+		background-color: #6AC2F0; 
+	}
+	#ad{
+		margin-top: 5px;
+		width: 100%;
+		height: 35px;
+		line-height: 35px;
+		text-align: center;
+		background-color: #030E9D; 
+	}
+
+	#body{
+		margin-top: 10px;
+		background-color: #3D14EF;
+		float: left;
+		width: 100%;
+		margin-right: 1%;
+		height: 280px;
+		clear: both;
+	}
+	#article-feature{
+		margin-left: 1%;
+		float: left;
+		width: 98%;
+		margin-right: 1%;
+		height: 50px;
+		line-height: 50px;
+		text-align: center;
+		background-color: #6AC2F0;
+		margin-bottom: 10px;
+	}
+	#article-listing{
+		float: left;
+		width: 98%;
+		margin-right: 1%;
+		margin-left: 1%;
+		height: 150px;
+		line-height: 150px;
+		text-align: center;
+		background-color: #6AC2F0; 
+	}
+	#sidebar{
+		display: none;
+	}
+	#sidebar-feature{
+		float: left;
+		width: 98%;
+		margin-left: 1%;
+		margin-right: 1%;
+		height: 30px;
+		line-height: 30px;
+		text-align: center;
+		background-color: #6AC2F0;
+	}
+
+	footer{
+		background-color: #3D14EF;
+		height: 70px;
+		clear: both;
+		line-height: 70px;
+	}
+}
