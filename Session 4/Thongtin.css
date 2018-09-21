@@ -88,7 +88,7 @@ header li:first-child {
   padding: 1.2%;
   text-decoration: none;
   font-size: 16px;
-  width: 6.65%;
+  width: 6.69%;
   font-weight: bold;
 }
 .topnav a:hover {
@@ -99,3 +99,86 @@ header li:first-child {
   background-color: #F70C22;
   color: white;
 }
+
+.thongtin{
+  clear: both;
+  background-color: #fff;
+}
+
+.tieudett{
+  text-align: center;
+  font-size: 30px;
+  padding: 16px;
+  color: #F84040;
+  font-weight: bold;
+  font-family: 'myFont';
+}
+
+@font-face {
+    font-family: myFont;
+    src: url(Anton-Regular.ttf);
+}
+
+.bando{
+  display: block;
+  margin: 0 auto;
+  width: 80%;
+  padding: 16px;
+}
+
+.info{
+  display: block;
+  width: 80%;
+  margin: 0 auto;
+  font-family: 'myFont';
+}
+
+table{
+  border: 1px solid black;
+  margin: 0 auto;
+  width: 80%;
+  border-collapse: collapse;
+}
+
+th {
+  background: #9BE624;
+  padding: 10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td{
+  padding: 10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+footer{
+  height: 200px;
+  background-color: #fff;
+  clear: both;
+  width: 90%;
+  margin: 0 auto;
+  clear: both;
+  margin-top: 16px;
+}
+
+.tfooter{
+  clear: both;
+  margin-left: 2%;
+  
+}
+.ttfooter{
+  float: left;
+  margin: 1%;
+}
+.anhfooter{
+  float: left;
+  margin: 3%;
+}
+
+.ttfooter a{
+  text-decoration: none;
+  font-weight: bold;
+}
+

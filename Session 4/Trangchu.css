@@ -5,14 +5,14 @@ body {
 
 header {
 	width: 100%;
-    margin: auto;
-    position: relative;
+  margin: 0 auto;
+  position: relative;
 	background: #fff;
 	overflow: hidden;
 }
 
 .wrapper {
-    width: 80%px;
+  width: 80%px;
 	margin: 0 auto;
 }
 
@@ -49,15 +49,15 @@ header nav ul li{
 }
 
 header nav ul li a{
-    text-decoration: none;
-    color: #333333;
-    font-size: 17px;
-    padding-top: 15px;
+  text-decoration: none;
+  color: #333333;
+  font-size: 17px;
+  padding-top: 15px;
 	padding-bottom: 15px;
 	transition: all .2s linear;
-    -webkit-transition: all .2s linear;
-    -moz-transition: all .2s linear;
-    -o-transition: all .2s linear;
+  -webkit-transition: all .2s linear;
+  -moz-transition: all .2s linear;
+  -o-transition: all .2s linear;
 }
 
 header nav ul li a.active,
@@ -88,7 +88,7 @@ header li:first-child {
   padding: 1.2%;
   text-decoration: none;
   font-size: 16px;
-  width: 6.65%;
+  width: 6.69%;
   font-weight: bold;
 }
 .topnav a:hover {
@@ -100,9 +100,15 @@ header li:first-child {
   color: white;
 }
 
+.muctin{
+  clear: both;
+  background: #fff;
+}
 .muctintuc{
   background: #fff;
   clear: both;
+  float: left;
+  width: 77.5%;
 }
 
 .tieude{
@@ -145,8 +151,19 @@ header li:first-child {
   width: 55%;
 }
 
+.mucquangcao{
+  float: left;
+  width: 22.5%;
+}
+
+.anhqc{
+  height: 746px;
+  width: 100%;
+}
+
 .mucanh{
-  background: #fff;
+  clear: both;
+  background-color: #fff;
 }
 
 .anh{
