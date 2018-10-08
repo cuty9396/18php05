@@ -1,0 +1,91 @@
+.product{
+	float: left;
+	width: 15%;
+	height: 430px;
+	margin: 1.4%;
+	padding: 0.5%;
+	border: 2px solid black;
+}
+
+.pic{
+	height: 200px;
+}
+
+.btn{
+    background-color: #FD5F09; 
+    border: none;
+    color: white;
+    font-weight: bold;
+    margin: 0px auto;
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+
+}
+
+.btn:hover {background-color: #FF7301}
+
+.btn:active {
+  background-color: #FF4301;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.title{
+	text-align: center;
+	font-weight: bold;
+}
+
+.price{
+	font-size: 30px;
+	font-weight: bold;
+	color: #FF3C00;
+}
+
+.oldprice{
+	font-size: 20px;
+	color: #E5F21D;
+	text-decoration: line-through;
+}
+
+.button {
+  border-radius: 4px;
+  background-color: #f4511e;
+  border: none;
+  color: #FFFFFF;
+  text-align: center;
+  font-size: 28px;
+  padding: 20px;
+  width: 200px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 2%;
+  margin-left: 40%;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
